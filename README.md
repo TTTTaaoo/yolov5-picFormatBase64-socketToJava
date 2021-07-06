@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <p>
 <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
@@ -267,3 +268,7 @@ For issues running YOLOv5 please visit [GitHub Issues](https://github.com/ultral
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
     </a>
 </div>
+=======
+# yolov5-picFormatBase64-socketToJava
+通过socket接收图片base64编码，数据处理完成后再经socket传给java
+>>>>>>> f09554a503275b7b4972e1e4e0a4534a188f2a8b
