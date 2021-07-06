@@ -1,0 +1,2 @@
+# yolov5-picFormatBase64-socketToJava
+通过socket接收图片base64编码，数据处理完成后再经socket传给java
